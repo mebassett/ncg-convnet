@@ -8,5 +8,3 @@ develop rational design principles for neural network architectures on general c
 4. how many layers and nodes in each layer?
 5. how we can transfer learning to different data (steerability)?
 
-*How are we going to achieve this?
-We aim to illustrate this phenomenon by constructing coordinate-free deep convolutional neural networks on algebras and answering the questions above.
